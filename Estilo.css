@@ -17,3 +17,6 @@ a:link {
 a:visited {
     color: yellow
 }
+a:hover {
+    color: violet
+}
