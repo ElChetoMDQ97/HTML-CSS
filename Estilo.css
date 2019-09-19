@@ -1,0 +1,19 @@
+p.Estilo2 {
+ font-size: 20px;
+}
+
+h2.Estilo {
+    color: blue
+}
+
+h1.Estilo3 {
+    color: blueviolet;
+}
+
+a:link {
+    color: red
+}
+
+a:visited {
+    color: yellow
+}
