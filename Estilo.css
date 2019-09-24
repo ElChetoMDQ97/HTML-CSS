@@ -1,27 +1,43 @@
 p.Estilo2 {
- font-size: 20px;
+    font-size: 20px;
 }
 
 h2.Estilo {
-    color: blue
+    color: blue;
 }
 
 h1.Estilo3 {
     color: blueviolet;
+    text-align: center;
 }
 
 a:link {
-    color: red
+    color: red;
 }
 
 a:visited {
-    color: yellow
+    color: yellow;
 }
 
 a:hover {
-    color: violet
+    color: rgb(119, 0, 119);
 }
 
 a {
     text-decoration: none;
+}
+
+img.chica {
+    width: 50px;
+    height: 50px;
+}
+
+img.mediana {
+    width: 150px;
+    height: 150px;
+}
+
+img.grande {
+    width: 300px;
+    height: 200px;
 }
